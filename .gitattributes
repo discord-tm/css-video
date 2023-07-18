@@ -1,3 +1,1 @@
-example/vid/**.css filter=lfs diff=lfs merge=lfs -text
-*.css linguist-vendored=false
-*.html linguist-vendored=false
+example/**/* filter=lfs diff=lfs merge=lfs -text
